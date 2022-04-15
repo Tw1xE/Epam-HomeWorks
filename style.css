@@ -1,0 +1,80 @@
+hr {
+    outline: black 10px;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+body {
+    padding: 0px 100px;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+
+}
+
+
+.content2 , .content3 {
+    margin-top: 125px;
+    margin-left: 50px;
+    font-size: small;
+
+}
+
+.content4 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0px;
+    margin-left: 50px;
+    width: 125px;
+    height: 20px;
+}
+
+.edu {
+    color: grey;
+}
+.head1 {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    margin-right: 899px;
+    margin-left: 50px;
+}
+
+
+.head2 {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    margin-left: 125px;
+}
+.container {
+    padding: 10px 0px;
+
+
+}
+.head1 {
+    font-size: 25px;
+    margin: 0;
+}
+.details {
+    flex-grow: 1;
+}
+.year{
+    font-style: italic;
+    color: rgb(135, 135, 135);
+}
+.heading {
+    width: 10%;
+}
+.sub-cont {
+    display: flex;
+    gap: 20px;
+}
+.i{
+    size: 15px;
+    color: gray;
+}
